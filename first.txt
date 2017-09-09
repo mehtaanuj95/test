@@ -6,3 +6,6 @@ yellow
 cream
 green
 red
+purple
+
+This is end of my first poem.
