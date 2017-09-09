@@ -6,3 +6,6 @@ yellow
 cream
 green
 violet
+indigo
+
+This is just the beginning.
