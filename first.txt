@@ -5,7 +5,12 @@ orange
 yellow
 cream
 green
+violet
+indigo
 red
 purple
+This is just the beginning.
+
 
 This is end of my first poem.
+
